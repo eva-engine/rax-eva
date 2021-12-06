@@ -3,7 +3,7 @@
       "type":"command",
       "command":{
           "cmd":[
-            "tnpm install",
+            "npm install",
             "tnpm run bootstrap",
             "tnpm run build -- --packages=*",
             "tnpm run playground-public",

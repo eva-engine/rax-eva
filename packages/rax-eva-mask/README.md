@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-mask --save
+$ npm install @eva/rax-eva-mask --save
 ```
 
 ## Usage

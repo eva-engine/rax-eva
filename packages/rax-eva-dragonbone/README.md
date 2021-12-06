@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-dragonbone --save
+$ npm install @eva/rax-eva-dragonbone --save
 ```
 
 ## Usage

@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-image --save
+$ npm install @eva/rax-eva-image --save
 ```
 
 ## Usage

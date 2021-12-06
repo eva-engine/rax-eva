@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-a11y --save
+$ npm install @eva/rax-eva-a11y --save
 ```
 
 ## Usage

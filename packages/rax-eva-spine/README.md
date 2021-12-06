@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-spine --save
+$ npm install @eva/rax-eva-spine --save
 ```
 
 ## Usage

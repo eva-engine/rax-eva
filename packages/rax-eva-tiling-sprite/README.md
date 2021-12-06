@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-tiling-sprite --save
+$ npm install @eva/rax-eva-tiling-sprite --save
 ```
 
 ## Usage

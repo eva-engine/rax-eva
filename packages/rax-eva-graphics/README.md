@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-graphics --save
+$ npm install @eva/rax-eva-graphics --save
 ```
 
 ## Usage

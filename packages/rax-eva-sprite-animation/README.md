@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-sprite-animation --save
+$ npm install @eva/rax-eva-sprite-animation --save
 ```
 
 ## Usage

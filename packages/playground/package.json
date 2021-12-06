@@ -11,7 +11,7 @@
   },
   "scripts": {
     "webpack": "webpack --config webpack.config.js && webpack --config webpack.libs.config.js",
-    "postinstall": "tnpm i ./libs/demosify ./libs/rax-babel-config",
+    "postinstall": "npm i ./libs/demosify ./libs/rax-babel-config",
     "predev": "npm run webpack",
     "dev": "demosify --public-url \"/\" --serve",
     "prepublic": "rm -rf ./public && npm run webpack",

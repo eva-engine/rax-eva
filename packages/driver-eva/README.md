@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/driver-eva --save
+$ npm install @eva/driver-eva --save
 ```
 
 ## Usage

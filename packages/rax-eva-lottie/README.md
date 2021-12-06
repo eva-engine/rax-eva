@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ tnpm install @eva/rax-eva-lottie --save
+$ npm install @eva/rax-eva-lottie --save
 ```
 
 ## Usage
