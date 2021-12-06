@@ -1,0 +1,7 @@
+{
+  "npmClient": "tnpm",
+  "registry": "https://npmjs.com",
+  "version": "independent",
+  "packages": ["packages/*"],
+  "loglevel": "info"
+}

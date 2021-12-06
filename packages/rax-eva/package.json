@@ -1,0 +1,49 @@
+{
+  "name": "@eva/rax-eva",
+  "author": "zhuxun.jb",
+  "version": "0.1.1",
+  "description": "Rax EVA是一个让开发同学能够在Rax技术体系下，利用EVA JS的游戏研发能力，开发动画、游戏类场景的框架。它可以让开发同学用熟悉的JSX和Hooks语法编写动画、游戏场景的代码。",
+  "main": "lib/index.js",
+  "esmodule": "es/index.js",
+  "module": "src/index.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "dist",
+    "es",
+    "lib",
+    "src",
+    "types"
+  ],
+  "keywords": [
+    "rax",
+    "eva",
+    "rax-eva"
+  ],
+  "engines": {
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "build": "build-scripts build && rm -f lib/*.d.ts"
+  },
+  "dependencies": {
+    "rax": "^1.1.4",
+    "rax-types": "1.0.1",
+    "@eva/eva.js": "^1.2.1",
+    "@eva/plugin-renderer-text": "^1.2.1",
+    "@eva/plugin-renderer-render": "^1.2.1",
+    "@eva/plugin-renderer-event": "^1.2.1"
+  },
+  "devDependencies": {
+    "@eva/driver-eva": "^0.1.1",
+    "driver-universal": "^3.1.3",
+    "@eva/plugin-renderer-img": "^1.2.1",
+    "@eva/plugin-renderer-dragonbone": "^1.2.1"
+  },
+  "peerDependencies": {
+    "rax": "^1.1.4",
+    "@eva/eva.js": "^1.2.1",
+    "@eva/plugin-renderer-text": "^1.2.1",
+    "@eva/plugin-renderer-render": "^1.2.1",
+    "@eva/plugin-renderer-event": "^1.2.1"
+  }
+}
